@@ -19,23 +19,7 @@ Verifica se uma palavra é palíndromo (ex.: "arara", "radar").
 Compara três números e retorna qual é o maior entre eles.
 
 ### ✅ Atividade 5 – Cálculo de potência
-Arrow function que recebe uma base e um expoente e retorna a potência calculada.
-
-## 🚀 Como Executar
-
-Acesse a pasta do projeto:
-
-bash
-Copiar
-Editar
-cd nome-do-repositorio
-Execute com Node.js (caso tenha instalado):
-
-bash
-Copiar
-Editar
-node index.js
-Se preferir, pode testar direto no console do navegador (F12).
+Arrow function que recebe uma base e um expoente e retorna a potência 
 
 ✨ Tecnologias Utilizadas
 JavaScript (ES6+)
