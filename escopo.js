@@ -1,3 +1,4 @@
+//Script criado como apoio para meus estudos e para fixar melhor os conceitos aprendidos.
 // BLOCO, FUNÇÂO OU GLOBAL 3 ESCOPOS DO JS
 // CONST A VARIAVEL QUE NÂO MUDA O VALOR
 // LET NÃO PODE SER ACESSADA FORA DO BLOCO
