@@ -28,4 +28,3 @@ Node.js (para execução local opcional)
 
 📝 Autor
 Feito com dedicação por Bruno 👨‍💻
-Se quiser bater um papo sobre tecnologia ou concursos, só chamar!
